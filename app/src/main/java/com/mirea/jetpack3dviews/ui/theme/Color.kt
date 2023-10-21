@@ -1,4 +1,4 @@
-package com.example.jetpack3dviews.ui.theme
+package com.mirea.jetpack3dviews.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

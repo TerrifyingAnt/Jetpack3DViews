@@ -1,4 +1,4 @@
-package com.example.jetpack3dviews
+package com.mirea.jetpack3dviews
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.jetpack3dviews.ui.theme.Jetpack3DViewsTheme
+import com.mirea.jetpack3dviews.ui.theme.Jetpack3DViewsTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
